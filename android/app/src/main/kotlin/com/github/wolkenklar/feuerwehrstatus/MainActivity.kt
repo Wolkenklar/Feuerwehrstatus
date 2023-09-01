@@ -1,4 +1,4 @@
-package com.example.feuerwehrstatus
+package com.github.wolkenklar.feuerwehrstatus
 
 import io.flutter.embedding.android.FlutterActivity
 

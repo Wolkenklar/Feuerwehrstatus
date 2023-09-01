@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.feuerwehrstatus</string>
+	<string>com.github.wolkenklar.feuerwehrstatus</string>
 	<key>PROJECT_ID</key>
 	<string>feuerwehrstatusapp-15428</string>
 	<key>STORAGE_BUCKET</key>

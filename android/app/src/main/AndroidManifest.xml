@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.feuerwehrstatus">
+    package="com.github.wolkenklar.feuerwehrstatus">
     <application
         android:label="Feuerwehrstatus"
         android:name="${applicationName}"
