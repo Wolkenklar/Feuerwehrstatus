@@ -268,6 +268,7 @@ class _MyEinsaetzePageState extends State<MyEinsaetzePage> {
         title: DropdownButton(
           iconEnabledColor: Colors.white,
           underline: Container(),
+          focusColor: Colors.transparent,
           isExpanded: false,
           alignment: Alignment.center,
           style: const TextStyle(fontSize: 30, color: Colors.black),
